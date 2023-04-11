@@ -74,10 +74,11 @@ else:
     
 
  
-
 # Output : 
 
-![](exp2.png)
+![poissin](https://user-images.githubusercontent.com/94154780/231059356-2c7b43d6-0526-406e-8e04-5d94001314fa.png)
+
+
 
 
 
