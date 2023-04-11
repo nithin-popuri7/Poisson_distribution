@@ -76,7 +76,8 @@ else:
  
 
 # Output : 
-<img width="536" alt="Prob" src="https://user-images.githubusercontent.com/94154780/231052323-1554e41b-3c8d-4ad6-9d4c-a3797042b85e.png">
+
+<img width="536" alt="Prob" src="https://user-images.githubusercontent.com/94154780/231052854-4d371547-9266-4de6-bb8a-c865f95a25dc.png">
 
 
 
