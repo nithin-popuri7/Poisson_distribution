@@ -77,7 +77,7 @@ else:
 
 # Output : 
 
-![github.logo](exp2.png)
+![](exp2.png)
 
 
 
