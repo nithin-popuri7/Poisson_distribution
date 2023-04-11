@@ -75,7 +75,7 @@ else:
 
  
 # Output : 
-![Github.logo](poissin.PNG)
+![Github.logo](poissin.png)
 
 
 
