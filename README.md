@@ -77,7 +77,7 @@ else:
 
 # Output : 
 
-![Uploading exp2.png…]()
+
 
 
 
