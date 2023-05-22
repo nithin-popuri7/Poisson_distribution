@@ -75,14 +75,7 @@ else:
 
  
 ## Output : 
-
-![github.logo](prob2.png)
-
-
-
-
-
-
+![exp2](https://github.com/nithin-popuri7/Poisson_distribution/assets/94154780/cfd80f92-0da8-4dd4-b013-967eadbfcc0d)
 
 
 # Results
