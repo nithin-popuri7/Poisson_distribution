@@ -76,7 +76,7 @@ else:
  
 ## Output : 
 
-![prob2](https://github.com/nithin-popuri7/Poisson_distribution/assets/94154780/d79f9b2e-4185-41aa-a9bc-6b57538d4f7f)
+![github.logo](prob2.png)
 
 
 
