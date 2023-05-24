@@ -75,7 +75,7 @@ else:
 
  
 ## Output : 
-![prob2 1](https://github.com/nithin-popuri7/Poisson_distribution/assets/94154780/6da453c9-2366-409b-abe3-fb00edf834aa)
+![output](https://github.com/nithin-popuri7/Poisson_distribution/assets/94154780/bff626f9-f07d-402e-b778-984881c9b745)
 
 
 # Results
